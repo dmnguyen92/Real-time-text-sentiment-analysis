@@ -36,7 +36,8 @@ The app is built using Flask api.
 First install docker [here](https://docs.docker.com/install/)
 
 ```bash
-docker run -p 80:80 dmdm02/toxic-comments-detection:latest
+docker pull dmdm02/toxic-detection:latest
+docker run -p 80:80 dmdm02/toxic-detection:latest
 ```
 Then go to your browser at http://0.0.0.0:80. The app should be up and running
 
