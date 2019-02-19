@@ -4,7 +4,7 @@
   <img src="demo_image.png" width="600" title="Demo image">
 </p>
 
-This is a deployable machine learning model to rate toxic levels of comments from social networks. The data is taken from [Kaggle toxic comments classification challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
+This is a deployable machine learning model to rate toxic levels of comments from social networks. The data is taken from [Kaggle toxic comments classification challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge). You can try the app [HERE](34.201.122.22)
 
 ## Required packages
 ```bash
@@ -38,7 +38,7 @@ First install docker [here](https://docs.docker.com/install/)
 ```bash
 docker run -p 80:80 dmdm02/toxic-comments-detection:latest
 ```
-Then go to your browser at http://0.0.0.0:4444. The app should be up and running
+Then go to your browser at http://0.0.0.0:80. The app should be up and running
 
 ## Pull from github
 
