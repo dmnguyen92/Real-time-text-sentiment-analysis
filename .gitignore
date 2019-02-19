@@ -1,0 +1,6 @@
+src/models/weights_gpu.best.hdf5
+src/pretrained/glove.6B/*
+data_train/*
+
+*.csv
+!.gitignore
