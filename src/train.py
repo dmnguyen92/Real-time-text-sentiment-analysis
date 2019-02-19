@@ -62,8 +62,8 @@ from keras import initializers, regularizers, constraints, optimizers, layers
 import keras.backend as K
 from preprocessing import *
 
-import nltk
-from nltk import WordNetLemmatizer
+#import nltk
+#from nltk import WordNetLemmatizer
 import re
 from textblob import TextBlob
 import pickle
