@@ -4,7 +4,7 @@
   <img src="demo_image.png" width="600" title="Demo image">
 </p>
 
-This is a deployable machine learning model to rate toxic levels of comments from social networks. The data is taken from [Kaggle toxic comments classification challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge). You can try the app [HERE](34.201.122.22)
+This is a deployable machine learning model to rate toxic levels of comments from social networks. The data is taken from [Kaggle toxic comments classification challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge). You can try the app [HERE](http://34.201.122.22/)
 
 ## Required packages
 ```bash
